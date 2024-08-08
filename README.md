@@ -19,6 +19,12 @@ This project involves analyzing the NHIS Child Summary Health Statistics dataset
   - `Child Health Analysis - Ivie Irivbogbe.xlsx`: Excel file with analysis.
   - `NHIS_Child_Summary_Health_Statistics.csv`: Dataset used for the analysis.
 
+## Analysis Methodology
+The analysis was conducted using Microsoft Excel to perform data cleaning, visualization, and statistical analysis. Key steps included:
+- **Data Cleaning:** Sorting, filtering, and handling missing values to ensure data integrity.
+- **Visualization:** Creating charts such as line graphs, bar charts, pie charts, and scatter plots to visualize trends and correlations.
+- **Statistical Analysis:** Calculating averages, percentages, and correlations to derive insights from the data.
+
 ## How to Run
 1. Clone the repository:
    ```bash
